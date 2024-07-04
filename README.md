@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I am Pavel Ivanov, a Software Engineer. I am about to graduate Bauman Moscow State Technical University with a Bachelor's degree. I am interested in software design and Backend development. My activities beyond engineering include student activism, patricipation in European student organizations events, travelling and art.
+I am Pavel Ivanov, a Software Engineer. I have graduated with honours from Bauman Moscow State Technical University with a Bachelor's degree. I am interested in software design and Backend development. My activities beyond engineering include student activism, patricipation in European student organizations events, travelling and art.
 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white&color=%230A66C2)](https://www.linkedin.com/in/pavel-ivanov-71150b27b/)
 [![Static Badge](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&color=%2326A5E4)](https://t.me/pauuserrr)
