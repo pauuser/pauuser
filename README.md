@@ -1,32 +1,27 @@
 # Hi there! 👋
 
-I am Pavel Ivanov, a Software Engineer. I have graduated with honours from Bauman Moscow State Technical University with a Bachelor's degree. I am interested in software design and Backend development. My activities beyond engineering include student activism, patricipation in European student organizations events, travelling and art.
+**🚀 Software Engineer | Backend Developer | Tech Enthusiast**
 
-[![Static Badge](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white&color=%230A66C2)](https://www.linkedin.com/in/pavel-ivanov-71150b27b/)
-[![Static Badge](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&color=%2326A5E4)](https://t.me/pauuserrr)
+Graduated with honors from Bauman Moscow State Technical University (Bachelor’s degree). Passionate about backend development, software design, and solving complex technical challenges.
 
-## 🚀 Techologies and skills
+Beyond engineering, I enjoy student activism, traveling, and exploring art.
 
-I have worked with multiple technologies over the years. My skills include:
+## 💼 Professional Summary
 
-- C# & .NET on a proficient level
-- DBMS: PostgreSQL, MongoDB, SQLite, Redis
-- REST APIs, gRPC
-- TypeScript & React, HTML, CSS
-- Python, C/C++, basic Go
-- Clean architecture building
-- Linux kernel modules development
-- Monitoring configuration, benchmarking
-- Unit, integration, E2E testing
-- TDD, BDD
+With years of hands-on experience, I specialize in building scalable, efficient, and maintainable software solutions. My expertise spans a wide range of modern technologies and development practices. I aim to deliver clean, optimized code while fostering innovation and collaboration in every project I undertake.
 
-Surely, this is not the full list. I tried to put some of my work in my public repositories so you are very welcome to explore it!
+## 🛠️ Tech Stack
 
-## 📬 Contact me!
+- **Languages & Frameworks:** C#, .NET, TypeScript, Go, Python, React
+- **Databases:** PostgreSQL, MongoDB, Redis, SQLite
+- **Development:** REST, gRPC, TDD, Clean Architecture
+- **Other:** Linux Kernel Modules, Monitoring, Benchmarking
 
-If you have any questions regarding my work or any offers, you can contact me via [LinkedIn](https://www.linkedin.com/in/pavel-ivanov-71150b27b/), [Telegram](https://t.me/pauuserrr) or email pauuser.work@gmail.com. Let's stay in touch!
+## 📬 Let’s Connect!
 
-<!---
-pauuser/pauuser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes
---->
+Feel free to reach out if you’re interested in my work, want to collaborate, or have opportunities in mind:
+
+Email: pauuser.work@gmail.com
+
+[![Static Badge](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pavel-ivanov-71150b27b/)
+[![Static Badge](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/pauuserrr)
